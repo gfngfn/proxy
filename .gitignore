@@ -12,3 +12,4 @@ erl
 .eunit
 
 tags
+_build
